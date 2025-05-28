@@ -1,6 +1,6 @@
 # Rockwell PLC Data Logger & Web Viewer
 
-[//] # (![Project Banner/Logo (Optional)]())
+
 
 A Python-based application to read data from Rockwell Allen-Bradley PLCs (ControlLogix/CompactLogix) via EtherNet/IP, store it in a MySQL database, and display live and historical values on a web interface.
 
