@@ -1,4 +1,4 @@
-# [Project Name] - Rockwell PLC Data Logger & Web Viewer
+# Rockwell PLC Data Logger & Web Viewer
 
 [//] # (![Project Banner/Logo (Optional)]())
 
